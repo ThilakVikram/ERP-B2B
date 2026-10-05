@@ -1,0 +1,4 @@
+.[(venv)|(ruff)]*
+.env
+
+/**/__pycache__
